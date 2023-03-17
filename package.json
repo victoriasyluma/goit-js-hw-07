@@ -1,0 +1,10 @@
+{
+  "name": "goit-js-hw-07",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "victoriasyluma <victoriasyluma3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
